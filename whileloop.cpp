@@ -15,7 +15,6 @@ int main(){
 
 	do {
 		cout <<"Do you want o keep executing?" << endl;
-		cout <<"0 - Keep
 	}
 	while(false);
 
